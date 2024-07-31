@@ -1,0 +1,14 @@
+g:\handas\Calculator\MyCalculator\bin\Debug\net8.0\MyCalculator.exe
+G:\handas\Calculator\MyCalculator\bin\Debug\net8.0\MyCalculator.deps.json
+G:\handas\Calculator\MyCalculator\bin\Debug\net8.0\MyCalculator.runtimeconfig.json
+g:\handas\Calculator\MyCalculator\bin\Debug\net8.0\MyCalculator.dll
+g:\handas\Calculator\MyCalculator\bin\Debug\net8.0\MyCalculator.pdb
+g:\handas\Calculator\MyCalculator\obj\Debug\net8.0\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+g:\handas\Calculator\MyCalculator\obj\Debug\net8.0\MyCalculator.AssemblyInfoInputs.cache
+g:\handas\Calculator\MyCalculator\obj\Debug\net8.0\MyCalculator.AssemblyInfo.cs
+g:\handas\Calculator\MyCalculator\obj\Debug\net8.0\MyCalculator.csproj.CoreCompileInputs.cache
+g:\handas\Calculator\MyCalculator\obj\Debug\net8.0\MyCalculator.dll
+g:\handas\Calculator\MyCalculator\obj\Debug\net8.0\refint\MyCalculator.dll
+g:\handas\Calculator\MyCalculator\obj\Debug\net8.0\MyCalculator.pdb
+G:\handas\Calculator\MyCalculator\obj\Debug\net8.0\MyCalculator.genruntimeconfig.cache
+G:\handas\Calculator\MyCalculator\obj\Debug\net8.0\ref\MyCalculator.dll
